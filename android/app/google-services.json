@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925326890338",
+    "project_id": "biometricsapp-8a808",
+    "storage_bucket": "biometricsapp-8a808.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925326890338:android:bbfadfbfc631d4afa1c83b",
+        "android_client_info": {
+          "package_name": "com.example.bio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925326890338-7tdhk9n062srg240i8b01t2rmkm0ndcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdb4jesilubfRFflA-6Jo8Wzd1m4hXZ_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925326890338-7tdhk9n062srg240i8b01t2rmkm0ndcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
